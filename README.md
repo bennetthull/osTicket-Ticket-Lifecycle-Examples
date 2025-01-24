@@ -33,7 +33,7 @@ I first created a ticket as a user that claimed the entire online banking depart
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F7GhRgE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then as Jessica, I assigned the ticket to the online banking team. I logged back in as Brad, who is a member of this team and began to work the issue. I responded to the user and said that this may be from a recent update. I said I would roll back this update and determine if that was the root cause of the issue. 
