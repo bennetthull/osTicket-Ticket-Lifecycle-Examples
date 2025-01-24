@@ -25,18 +25,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/97sLx14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I first created a ticket as a user that claimed the entire online banking department was down.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I first created a ticket as a user that claimed the entire online banking department was down. I then logged into oSTicket with one of the agent profiles I created "Jessica". Since the user did not correctly classify the problem as "Business Critical", I changed the default SLA to Sev-A.
 </p>
 <br />
 
@@ -44,6 +36,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then as Jessica, I assigned the ticket to the online banking team. I logged back in as Brad, who is a member of this team and began to work the issue. I responded to the user and said that this may be from a recent update. I said I would roll back this update and determine if that was the root cause of the issue. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After confirming that the updates were the root cause of the issue, I rolled back the updates and returned online banking back to functionality. I made this known to the user and let them know I would be reaching out to the vendor. I then marked the ticket as resolved. 
 </p>
 <br />
