@@ -41,7 +41,7 @@ Then as Jessica, I assigned the ticket to the online banking team. I logged back
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j4U0CGP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After confirming that the updates were the root cause of the issue, I rolled back the updates and returned online banking back to functionality. I made this known to the user and let them know I would be reaching out to the vendor. I then marked the ticket as resolved. 
