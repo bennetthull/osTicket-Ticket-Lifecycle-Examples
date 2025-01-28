@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/97sLx14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1422" alt="Screenshot 2025-01-24 at 2 18 47 PM" src="https://github.com/user-attachments/assets/478e5d43-eca5-474a-b44c-720401da906c" />
 </p>
 <p>
 I first created a ticket as a user that claimed the entire online banking department was down. I then logged into oSTicket with one of the agent profiles I created "Jessica". Since the user did not correctly classify the problem as "Business Critical", I changed the default SLA to Sev-A.
